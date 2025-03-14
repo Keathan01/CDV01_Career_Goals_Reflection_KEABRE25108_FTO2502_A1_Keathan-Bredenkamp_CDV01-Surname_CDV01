@@ -12,8 +12,8 @@
 
 1. **Skills Analysis**:
     
-    -Proficient in HTML,CSS
-    -Experience in web development
+    *Proficient in HTML,CSS
+    *Experience in web development
     -Familiarity with version control(GIT) and repositories(GITHUB)
     -Skills to improve : 
 *Develop a deeper understanding of HTML and CSS
